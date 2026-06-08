@@ -9,4 +9,5 @@ O ARIA é um sistema de monitoramento de missão espacial que gera dados simulad
  ## Demonstração
 
 ![Dados da missão](assets/dados_missao.png)
+
 ![Alerta crítico](assets/alerta_critico.png)
