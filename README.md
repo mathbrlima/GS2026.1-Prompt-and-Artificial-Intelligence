@@ -11,3 +11,12 @@ O ARIA é um sistema de monitoramento de missão espacial que gera dados simulad
 ![Dados da missão](assets/dados_missao.png)
 
 ![Alerta crítico](assets/alerta_critico.png)
+
+ ## Como Executar
+
+Abra o notebook no Google Colab:
+[Acessar Notebook](https://colab.research.google.com/drive/1rIoTxQNqBNuYl22CPIhU_XxV8V1vd2Ej#scrollTo=xblmEJainDGy)
+
+## Vídeo de Demonstração
+
+[Assistir ao vídeo](https://youtu.be/vsipjIIAq1g)
